@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+
+Case_Study__Product_Consultant-08929213-eb62-4a76-bc46-11967b29766d.pdf
