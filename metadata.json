@@ -1,0 +1,8 @@
+{
+  "name": "Medika Nusantara Workforce Intelligence",
+  "description": "Workforce analytics, skill gap analysis, and identity resolution audit prototype for Medika Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
